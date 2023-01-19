@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React js**, **Vue** e **Gulp**
 
-- 💬 Ask me about **HTML5, CSS3, SCSS, Javascript, React Js, PHP, MySQL, PostGres, Python, Perl, Entre outras**
+- 💬 Ask me about **HTML5, CSS3, SCSS, Javascript, React Js, PHP, MySQL, PostGres, Python, Perl, among others**
 
 - 📫 How to reach me **claudemir.slopes@hotmail.com**
 
