@@ -13,10 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.instagram.com/claudemir.slopes/" target="blank"><img align="center" src="https://www.flaticon.com/br/icone-gratis/instagram_174855" alt="Instagram" height="30" width="40" /></a>
-<a href="https://www.facebook.com/claudemirslopes2022" target="blank"><img align="center" src="https://openbeta.com.br/site/assets/img/icones/facebook.png" alt="Facebook" height="30" width="40" /></a>
-<a href="https://twitter.com/claumirlopes" target="blank"><img align="center" src="https://openbeta.com.br/site/assets/img/icones/twitter.png" alt="Twitter" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/claudemir-da-silva-lopes/" target="blank"><img align="center" src="https://openbeta.com.br/site/assets/img/icones/linkedin.png" alt="Twitter" height="30" width="40" /></a>
+<a href="https://www.instagram.com/claudemir.slopes/" target="blank"><img align="center" src="https://openbeta.com.br/openbeta/assets/img/icones/instagram.png" alt="Instagram" height="30" width="40" /></a>
+<a href="https://www.facebook.com/claudemirslopes2022" target="blank"><img align="center" src="https://openbeta.com.br/openbeta/assets/img/icones/facebook.png" alt="Facebook" height="30" width="40" /></a>
+<a href="https://twitter.com/claumirlopes" target="blank"><img align="center" src="https://openbeta.com.br/openbeta/assets/img/icones/x.png" alt="Twitter" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/claudemir-da-silva-lopes/" target="blank"><img align="center" src="https://openbeta.com.br/openbeta/assets/img/icones/linkedin.png" alt="Twitter" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
